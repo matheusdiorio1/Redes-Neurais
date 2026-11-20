@@ -1,0 +1,4 @@
+neuronios,epocas,auc_validacao,recall_validacao,precisao_validacao
+16,60,0.827,0.644,0.584
+32,25,0.836,0.765,0.537
+64,21,0.833,0.743,0.535
